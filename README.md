@@ -7,9 +7,6 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
 </p>
-<p align="center">
-  <img src="https://tenor.com/view/l-death-note-gif-18645674.gif"  height"20%" width="100%">
-</p>
 
 
 <h2 align="center">🌟 About Me</h2>
@@ -19,8 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding GIF" />
+  <img src="https://tenor.com/view/l-death-note-gif-18645674.gif"  height"20%" width="20%">
 </p>
+
 
 <h2 align="center">🚀 What I'm Up To</h2>
 
