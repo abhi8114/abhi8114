@@ -54,8 +54,6 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/abhishek11175/count.svg" alt="Visitor Count" />
 </p>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 <p align="center">
   Thanks for visiting my profile! Let's build something amazing together! 😊
 </p>
