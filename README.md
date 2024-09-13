@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm ABHISHEK, an aspiring Full-Stack Developer from India</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ABAB5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Next.js;Building+Scalable+and+Responsive+Web+Apps;Tech+Enthusiast+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ABAB5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Next.js; Building+Scalable+and+Responsive+Web+Apps;Tech+Enthusiast+Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,17 +33,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,git,nextjs&perline=8" />
 </p>
-
-
-
-
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-kumar-190485282/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/abhishek_08?igsh=MTJkM3Bkb3F2cXdlcA==">
+  <a href="https://www.instagram.com/_abhishek_08?igsh=MTJkM3Bkb3F2cXdlcA==">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:08114akv@gmail.com">
@@ -56,13 +52,6 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/abhishek11175/count.svg" alt="Visitor Count" />
 </p>
-
-<h2 align="center">💡 My Guiding Principle</h2>
-
-<p align="center">
-  <i>"In the ever-evolving landscape of technology, Abhishek doesn't just keep up – he adapts, innovates, and thrives. His ability to seamlessly integrate new ideas into robust solutions is not just a skill, it's his superpower."</i>
-</p>
-
 
 <p align="center">
   Thanks for visiting my profile! Let's build something amazing together! 😊
