@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
 </p>
+<p align="center">
+  <img src="https://tenor.com/view/l-death-note-gif-18645674.gif"  height"20%" width="100%">
+</p>
+
 
 <h2 align="center">🌟 About Me</h2>
 
@@ -53,6 +57,7 @@
   <img src="https://profile-counter.glitch.me/abhishek11175/count.svg" alt="Visitor Count" />
 </p>
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 <p align="center">
   Thanks for visiting my profile! Let's build something amazing together! 😊
 </p>
