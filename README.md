@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm ABHISHEK, an aspiring Full-Stack Developer from India</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ABAB5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Next.js; Building+Scalable+and+Responsive+Web+Apps;Tech+Enthusiast+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ABAB5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Next.js;Building+Scalable+and+Responsive+Web+Apps;Tech+Enthusiast+Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/abhishek-kumar-190485282/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/_abhishek_08?igsh=MTJkM3Bkb3F2cXdlcA==">
+  <a href="https://www.instagram.com/_abhishek__08?igsh=MTJkM3Bkb3F2cXdlcA==">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:08114akv@gmail.com">
