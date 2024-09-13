@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋! I'm ABHISHEK, an aspiring Full-Stack Developer from India</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ABAB5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Next.js;Building+Scalable+and+Responsive+Web+Apps;Tech+Enthusiast+Always+Learning" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 
