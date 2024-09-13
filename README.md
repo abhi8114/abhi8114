@@ -50,7 +50,7 @@
 <h2 align="center">👁️ Profile Views</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/abhishek11175/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/abhi8114/count.svg" alt="Visitor Count" />
 </p>
 <p align="center">
   Thanks for visiting my profile! Let's build something amazing together! 😊
