@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm ABHISHEK, an aspiring Full-Stack Developer from India</h1>
+<h1 align="center">Hi 👋! I'm ABHISHEK, a Full-Stack Developer from India</h1>
 
 
 
