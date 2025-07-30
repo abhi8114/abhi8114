@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm ABHISHEK, a Full-Stack Developer from India</h1>
+<h1 align="center">Hi I'm ABHISHEK, a Web-Developer from India</h1>
 
 
 
@@ -7,7 +7,7 @@
 </p>
 
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   I'm passionate about web development and love crafting scalable, user-friendly applications. My journey in tech revolves around learning and mastering modern frameworks and technologies to solve real-world problems with creativity and precision.
