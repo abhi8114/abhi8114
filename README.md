@@ -9,10 +9,6 @@
 I’m a developer passionate about building scalable, user-friendly, and visually polished web applications.  
 My work revolves around understanding modern technologies deeply and using them to solve real problems with clarity, precision, and clean code practices.
 
-<p align="center">
-  <img src="https://tenor.com/view/l-death-note-gif-18645674.gif" height="220">
-</p>
-
 ## What I’m Working On
 
 - Building full-stack applications with the MERN stack  
@@ -41,11 +37,6 @@ My work revolves around understanding modern technologies deeply and using them 
   </a>
 </p>
 
-## Profile Views
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/abhi8114/count.svg">
-</p>
 
 <p align="center">
   Thank you for visiting my profile.  
